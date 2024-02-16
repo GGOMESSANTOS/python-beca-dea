@@ -1,6 +1,6 @@
 def functionzinha(textinho):
     return textinho
  
-textinho = "textinho"
+textinho = "textinho",
  
 functionzinha(textinho=textinho)
